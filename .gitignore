@@ -1,0 +1,11 @@
+/build
+/bin
+/resources
+/.vscode
+/.vs
+/out
+/.idea
+/cmake-build-debug-visual-studio
+/cmake-build-release-visual-studio
+/CMakeSettings.json
+/vcpkg_installed
